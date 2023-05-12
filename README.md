@@ -34,6 +34,8 @@ mitsuba mitsuba_scene.xml
 
 **Tips:** You need to make sure that the **`mitsuba`** has been successfully installed in your environment and that **the relevant environment variables** and **quick-run commands** are configured.
 
+![image-20230513010007158](README.assets/image-20230513010007158-16839109253041.png)
+
 ## How to deployed to 3D part segmentation
 
 You can view the `segmentation` folder which contains `point_colorful_seg.py` to generate multiple xml files.
