@@ -78,7 +78,7 @@ sudo apt install libpng12-dev
 
 ![image-20220810233427666](mitsuba%20%E5%AE%89%E8%A3%85.assets/image-20220810233427666.png)
 
-![image-20220811122718216](mitsuba%20%E5%AE%89%E8%A3%85.assets/image-20220811122718216.png)
+![image-20230513010007158-16839109253041](mitsuba%20%E5%AE%89%E8%A3%85.assets/image-20230513010007158-16839109253041.png)
 
 ## mitsuba2
 
